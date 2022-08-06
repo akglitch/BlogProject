@@ -1,21 +1,37 @@
-
-.card {
-    width: 100%;
-
-}
-
-
-.blogt{
+/* *{
+    background-color: black;
+    color: aliceblue;
+} */
+/* .story{
     display: flex;
-    flex-direction: row;
-   
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+  list-style: none;
+} */
+
+
+
+.card{
+    height: 50%;
 }
+
+
+.Title {
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
 
 .storyHead h1{
 
     padding-top: 1%;
     padding-bottom: 1%;
-    font-weight: 100;
+    text-transform: uppercase;
+    border-bottom: 1px solid gray;
+    font-weight: 200;
     padding-left: 2%;
     margin-left: 2%;
     margin-right: 2%;
