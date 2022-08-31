@@ -16,25 +16,25 @@ function Header() {
   </div>
   <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="text-sm lg:flex-grow">
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
+      <a href="#j" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
         FASHION
       </a>
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
+      <a href="#j" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
         TECHNOLOGY
       </a>
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
+      <a href="#j" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
         SPACE
       </a>
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
+      <a href="#j" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
         HEALTH
       </a>
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
+      <a href="#f" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
         FOOD
       </a>
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
+      <a href="#j" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700  mr-4">
         ARTS
       </a>
-      <a href="#jjresponsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 ">
+      <a href="#j" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 ">
         LIFESTYLE
       </a>
     </div>

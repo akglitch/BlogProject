@@ -11,11 +11,11 @@ function Fashion() {
                 <div>
                <div class=" card  py-8 md:px-17 sm:px-14 px-18">
                <div class="lg:story item-center shadow-md">
-                   <a href="#">
+                   <a href="#hh">
                        <img class="object-cover w-full rounded h-44 dark:bg-gray-500" src={item.img} alt=""/>
                    </a>
                    <div class="p-6 space-y-2">
-                       <a href="#">
+                       <a href="#jj">
                            <h5 class="text-gray-900 Title  hover:text-indigo-600 transition duration-500 ease-in-out  font-bold text-1xl tracking-tight mb-1">{item.Genre}</h5>
                        </a>
                        <p class="font-normal text-gray-700 mb-1 ">{item.Topic}</p>
