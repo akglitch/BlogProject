@@ -5,7 +5,7 @@ import { fashion } from "./Data";
 function Hero() {
     return ( 
         <div className="storyHead" >
-        <h1>Hero</h1>
+        <h1>updates</h1>
         <div className=" Container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-4">
             
             {fashion.map((item) => (
