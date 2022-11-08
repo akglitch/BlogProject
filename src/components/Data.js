@@ -57,27 +57,35 @@ export const items = [
 
 export const fashion = [
     {
+        "id":0,
         "img":require("../Images/-5246873628551789393_121.jpg"),
-        "Genre":"World",
-        "Topic": "The latest released samsung smartphone",
-        "by" : "Hannah Annan"
+        "name":"Tshirt",
+        "price":9.99,
+        "alt":"shirt",
+        "href":"unsplash.com"
     },
     {
+        "id":1,
         "img":require("../Images/-5231188167468628678_121.jpg"),
-        "Genre":"Technology",
-        "Topic": "The new range rover velar and also back",
-        "by" : "kaytee"
+        "name":"clubshirt",
+        "price":7.99,
+        "alt":"club",
+        "href":"unsplash.com"
     },
     {
+        "id":2,
         "img":require("../Images/-5224299731415578093_121.jpg"),
-        "Genre":"Lifestyle",
-        "Topic": "space",
-        "by" : "Ralph blue"
+        "name":"Tshirt",
+        "price":9.39,
+        "alt":"vshirt",
+        "href":"unsplash.com"
     },
     {
+        "id":3,
         "img":require("../Images/-5224433399387766162_121.jpg"),
-        "Genre":"Health",
-        "Topic": "boeing 747",
-        "by" : " homie"
+        "name":"Hoody",
+        "price":15.99,
+        "alt":"hoody",
+        "href":"unsplash.com"
     },
 ]
